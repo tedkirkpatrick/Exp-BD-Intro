@@ -1,4 +1,4 @@
-# Big Data for the Worried, the Perplexed, and the Curious: How You Can Benefit From Data"
+# How You Can Benefit From Data"
 
 ---
 
@@ -12,19 +12,19 @@ Who we are, where we're going
 
 Notes:
 
-General use of HTML
+* General use of HTML
 
-* Use Control&nbsp;+ (on Mac&nbsp;OS Command&nbsp;+) to increase the size of the font
-* Use Control&nbsp;0 (on Mac&nbsp;OS Command &nbsp;0) to reset the size to default
-* The images (with one exception) will adjust to fit screen width
-* The one exception is the wide diagram showing process---see notes
-  next to that image for how to present it
+  * Use Control&nbsp;+ (on Mac&nbsp;OS Command&nbsp;+) to increase the size of the font
+  * Use Control&nbsp;0 (on Mac&nbsp;OS Command &nbsp;0) to reset the size to default
+  * The images (with one exception) will adjust to fit screen width
+  * The one exception is the wide diagram showing process---see notes
+    next to that image for how to present it
 
-Ask for tent cards
+* Ask for tent cards
 
-One of the first things you do is have participants write their
-preferred form of address (first name or title + last name ...)
-on their tent card
+* One of the first things you do is have participants write their
+  preferred form of address (first name or title + last name ...)
+  on their tent card
 
 ---
 
