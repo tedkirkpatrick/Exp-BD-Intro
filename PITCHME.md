@@ -1,5 +1,7 @@
 # Big Data for the Worried, the Perplexed, and the Curious: How You Can Benefit From Data"
 
+---
+
 ## Intro to the workshop
 
 Who we are, where we're going
@@ -24,7 +26,7 @@ One of the first things you do is have participants write their
 preferred form of address (first name or title + last name ...)
 on their tent card
 
-----
+---
 
 ## Links to Tableau workbooks used in live demos
 
@@ -32,7 +34,7 @@ on their tent card
 
 [Workbook with space for all organizational units (not just academic)](assets/Space.twbx)
 
-----
+---
 
 ### What you need to know
 
@@ -40,7 +42,7 @@ on their tent card
 * A knowledge of your own domain
 * One or more problems within your domain
 
-----
+---
 
 ### What you will get out of this
 
