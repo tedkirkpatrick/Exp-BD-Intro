@@ -74,3 +74,26 @@ be improved through application of a data-focused analysis. Good targets include
 
 ### About 1 hr 15 min to here.
 
+---
+
+### Example: Undergraduate headcount spreadsheet from IRP
+
+![Excel spreadsheet from IRP, showing undergrad headcounts for 2014/2015; noting different spelling of Women's Studies department name, minors-only department](assets/img/UG-headcount-Excel-annotated.png)
+
+Note:
+
+## TEASER FOR DAY 2
+
+**TABLEAU LIVE**
+
+Show tree maps of space and UG enrolment by faculty and department
+
+* take time to describe how a tree map works
+* highlight that each faculty is the same colour
+* select on department within a faculty and show its location on both
+  tree maps. Highlight that area on one display means TOTAL SPACE,
+  while area on the other display means TOTAL UG ENROLMENT
+
+Note that **Education UG enrolment is undercounted** (due to BEd students majoring
+in other Faculties)
+
