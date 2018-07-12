@@ -50,3 +50,28 @@ Note:
 2. A process for applying quantitative methods
 3. See the process applied to exploring space and enrolment data at
   SFU
+
+---
+
+### Example of Optimizing Analytics: Google data centre cooling
+
+Machine learning [reduced cooling power consumed by Google data centres](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/)
+
+* Google data centers were already efficient
+* Using machine learning techniques, cooling power was reduced 40% further
+* Machine learning provided a general algorithm for optimizing cooling costs based on the unique details of each data centre
+
+Note:
+
+**Exercise:** List several problems in your professional life that might potentially
+be improved through application of a data-focused analysis. Good targets include:
+
+* Improvements that might have big payoff on important outcomes
+* Terms that your field regards as essential ("student engagement",
+  "critical thinking", "justice", ...)
+  but that are vague, multi-valued, or subject to wide interpretation
+* Important outcomes that you aren't sure how to measure
+
+### About 1 hr 15 min to here.
+
+---
