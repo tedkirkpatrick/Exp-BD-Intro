@@ -1,4 +1,4 @@
-# How You Can Benefit From Data"
+# How You Can Benefit From Data
 
 ---
 
@@ -10,7 +10,7 @@ Who we are, where we're going
 
 **DAY 2: ANALYSIS**
 
-Notes:
+Note:
 
 * General use of HTML
 
