@@ -78,10 +78,7 @@ be improved through application of a data-focused analysis. Good targets include
 
 ### Example: Undergraduate headcount spreadsheet (IRP)
 
-<img src="assets/img/UG-headcount-Excel-annotated.png" alt="Excel
-spreadsheet from IRP, showing undergrad headcounts for 2014/2015;
-noting different spelling of Women's Studies department name,
-minors-only department" style="height: 50px"/>
+![Excel spreadsheet from IRP, showing undergrad headcounts for 2014/2015; noting different spelling of Women's Studies department name, minors-only department](assets/img/UG-headcount-Excel-annotated-shrunk.png)
 
 Note:
 
