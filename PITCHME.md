@@ -97,3 +97,6 @@ Show tree maps of space and UG enrolment by faculty and department
 Note that **Education UG enrolment is undercounted** (due to BEd students majoring
 in other Faculties)
 
+---?image=assets/img/UG-headcount-Excel-annotated-shrunk.png
+
+### Some text, yo!
