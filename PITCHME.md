@@ -1,3 +1,5 @@
+<script src="dist/js/hand.js"></script>
+
 # How You Can Benefit From Data
 
 ---
