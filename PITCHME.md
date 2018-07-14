@@ -1,11 +1,8 @@
 # How You Can Benefit From Data
 
 ---
-<script src="dist/js/hand.js"></script>
 
 ## Intro to the workshop
-
-More.
 
 Who we are, where we're going
 
