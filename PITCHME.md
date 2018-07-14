@@ -100,3 +100,20 @@ in other Faculties)
 ---?image=assets/img/UG-headcount-cropped.png
 
 ### Some text, yo!
+
+---
+
+```python
+import csv
+
+def do_csv(name):
+  with open(name, 'r') as inp:
+    rdr = csv.reader(inp)
+    next(rdr) # Skip header
+	for rec, num in rdr:
+	  do_something(rec, num)
+```
+
+@[1](Make CSV library available)
+@[4-6](Open CSV and read header)
+@[7-8](Call do_something on every data line)
